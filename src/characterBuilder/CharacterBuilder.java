@@ -20,6 +20,7 @@ public class CharacterBuilder {
 	System.out.println("Hello Yoyogi!");
 	System.out.println("Hello Yokohama!");
  	System.out.println("Test Branch!");
+ 	System.out.println("Test Branch2!");
        
         
         
