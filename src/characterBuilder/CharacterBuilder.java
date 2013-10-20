@@ -17,6 +17,8 @@ public class CharacterBuilder {
         System.out.println("Hello World!");
         System.out.println("Hello Akihabara!");
 	System.out.pringln("Hello Meguro!");
+	System.out.pringln("Hello Yoyogi!");
+        
         
        
    }
